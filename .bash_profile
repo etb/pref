@@ -8,7 +8,7 @@ export GREP_OPTIONS='--color=auto'
 
 # aliases I like
 alias c='clear'
-alias ls='-la'
+alias ls='ls -la'
 
 # emacs, to run MY emacs with 'nw,' and not the default 
 alias emacs='/Applications/Emacs.app/Contents/MacOS/Emacs -nw'
