@@ -72,4 +72,9 @@
 ;; Put this in your ~/.emacs.d/init.el and execute with M-x clear-shell, or bind it to a key in your init.el with something like:
 (global-set-key (kbd "\C-x c") 'clear-shell)
 
+;; C-tab to switch between the R command line and the file (similar to
+;; josh answer, but much faster): from http://stackoverflow.com/a/2903358/1305688
+
+(global-set-key [C-tab] 'other-window)
+
 ;;; init.el ends here
