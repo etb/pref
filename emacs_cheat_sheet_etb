@@ -1,7 +1,8 @@
-list buffers,	C-x C-b
-kill buffer,	C-x k name
-save as, 		C-x C-w
+C-x C-b		list buffers
+C-x k name	kill buffer	
+C-x C-w     save as
 
 ESS specific,
-selct other window,	C-x o
-clear console, 		C-x c
+C-x o		Selct other window
+C-x 		Clear console, 		
+C-c C-j		Evaluate this line
