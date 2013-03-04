@@ -1,0 +1,7 @@
+list buffers,	C-x C-b
+kill buffer,	C-x k name
+save as, 		C-x C-w
+
+ESS specific,
+selct other window,	C-x o
+clear console, 		C-x c
